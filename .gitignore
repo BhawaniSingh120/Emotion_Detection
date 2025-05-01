@@ -44,12 +44,6 @@ ENV/
 *.png
 *.gif
 
-# Model files
-*.h5
-*.pkl
-*.model
-*.weights
-
 # Logs
 *.log
 logs/
