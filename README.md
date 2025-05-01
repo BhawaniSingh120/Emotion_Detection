@@ -25,7 +25,7 @@ project/
 1. Clone the repository:
 ```bash
 git clone https://github.com/BhawaniSingh120/Emotion_Detection.git
-cd project
+cd Emotion_Detection
 ```
 
 2. Create and activate a virtual environment:
